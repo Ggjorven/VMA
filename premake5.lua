@@ -10,18 +10,14 @@ project "VMA"
 
 	files
 	{
-		"src/**.h",
-		"src/**.hpp",
-		"src/**.cpp",
-
         "src/Common.h",
         "src/Common.cpp",
         "src/SparseBindingTest.h",
         "src/SparseBindingTest.cpp",
-        "src/Tests.h"
+        "src/Tests.h",
         "src/Tests.cpp",
         "src/VmaUsage.h",
-        "src/VmaUsage.cpp",
+        "src/VmaUsage.cpp"
 	}
 
 	includedirs
